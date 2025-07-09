@@ -5,7 +5,8 @@ TokenManager:
       'origin': https://www.bilibili.com
       'referer': https://space.bilibili.com/
       'origin_2': https://space.bilibili.com
-      'cookie': buvid4=748EC8F0-82E2-1672-A286-8445DDB2A80C06110-023112304-; buvid3=73EF1E2E-B7A9-78DD-F2AE-9AB2B476E27638524infoc; b_nut=1727075638; _uuid=77AA4910F-5C8F-9647-7DA3-F583C8108BD7942063infoc; buvid_fp=75b22e5d0c3dbc642b1c80956c62c7da; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjczNDI1NTYsImlhdCI6MTcyNzA4MzI5NiwicGx0IjotMX0.G3pvk6OC4FDWBL7GNgKkkVtUMl29UtNdgok_cANoKsw; bili_ticket_expires=1727342496; header_theme_version=CLOSE; enable_web_push=DISABLE; home_feed_column=5; browser_resolution=1488-712; b_lsid=5B4EDF8A_1921EAA1BDA
+      'cookie': buvid3=40949A60-E6C5-1985-AFE8-D8E56978241663623infoc; b_nut=1725525163; _uuid=A31DD187-DA78-81B10-9AE3-CA89D5D8861664951infoc; buvid_fp=9e9037642040cde2a2c4bee83bd6d201; rpdid=|(um~JJRkm~J0J'u~kl)Y)kku; enable_web_push=DISABLE; DedeUserID=2166105; DedeUserID__ckMd5=0f446aab987c7654; hit-dyn-v2=1; buvid4=BB5E8B3C-A441-BF9A-5362-F0A7CD0E1A5437218-024090509-9S3HYK1DLRqCHr9vBj2sL%2F%2BFHsXrsNDMX%2BnpJi%2FqTqjJElcJkaNRK9Zt49vmUJA1; CURRENT_QUALITY=120; LIVE_BUVID=AUTO4317380451665167; PVID=1; enable_feed_channel=ENABLE; bmg_af_switch=1; bili_jct=3bbd0e1014fbfb6bfdcd656a35ebb65a; theme_style=dark; sid=8elgubpf; bmg_src_def_domain=i1.hdslb.com; header_theme_version=OPEN; CURRENT_FNVAL=4048; share_source_origin=COPY; bsource=search_google; __at_sign=b9ca92aeaa6204b78e9f300f6e66e885; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTIyMDQzNDAsImlhdCI6MTc1MTk0NTA4MCwicGx0IjotMX0.CMafQc-dKGOOgfOA22_DBD622pDhnVeDNhkDcJfi4XI; bili_ticket_expires=1752204280; b_lsid=621031BEE_197EE09FA9D; home_feed_column=4; browser_resolution=1202-958
+
       'user-agent': Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
 
     proxies:
